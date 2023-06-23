@@ -1,0 +1,15 @@
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\bin\Debug\net7.0\KinemaX.exe
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\bin\Debug\net7.0\KinemaX.deps.json
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\bin\Debug\net7.0\KinemaX.runtimeconfig.json
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\bin\Debug\net7.0\KinemaX.dll
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\bin\Debug\net7.0\KinemaX.pdb
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\obj\Debug\net7.0\KinemaX.csproj.AssemblyReference.cache
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\obj\Debug\net7.0\KinemaX.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\obj\Debug\net7.0\KinemaX.AssemblyInfoInputs.cache
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\obj\Debug\net7.0\KinemaX.AssemblyInfo.cs
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\obj\Debug\net7.0\KinemaX.csproj.CoreCompileInputs.cache
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\obj\Debug\net7.0\KinemaX.dll
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\obj\Debug\net7.0\refint\KinemaX.dll
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\obj\Debug\net7.0\KinemaX.pdb
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\obj\Debug\net7.0\KinemaX.genruntimeconfig.cache
+c:\Users\LENOVO\Desktop\KinemaX\KinemaX\obj\Debug\net7.0\ref\KinemaX.dll

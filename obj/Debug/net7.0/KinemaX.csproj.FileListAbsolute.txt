@@ -1,0 +1,5 @@
+C:\Users\LENOVO\Desktop\KinemaX\obj\Debug\net7.0\KinemaX.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\KinemaX\obj\Debug\net7.0\KinemaX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\KinemaX\obj\Debug\net7.0\KinemaX.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\KinemaX\obj\Debug\net7.0\KinemaX.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\KinemaX\obj\Debug\net7.0\KinemaX.csproj.CoreCompileInputs.cache
